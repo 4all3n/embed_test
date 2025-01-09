@@ -6,5 +6,6 @@ body{
 }
 
 .embed{
-    margin-bottom: 2rem;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
 }
