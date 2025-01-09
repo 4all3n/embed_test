@@ -1,6 +1,10 @@
 body{
-    background-color: transparent;
-    margin: 0px 0px 10px;
-    padding: 0px;
-    
+    background-color: #0d0d0d;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.embed{
+    margin-bottom: 2rem;
 }
